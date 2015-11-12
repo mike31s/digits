@@ -30,4 +30,8 @@ To add a contact, go to the Add Contacts page:
 ![](https://raw.githubusercontent.com/mike31s/digits/qa-1/doc/add.JPG)
 
 # Credits
+<<<<<<< HEAD
 Based on the meteor [application template](template.come)
+=======
+Based on the meteor [application template](template.come)
+>>>>>>> origin/master
